@@ -50,5 +50,15 @@ Manage a DevOps project using Git and GitHub best practices.
 
 Learn Git version control, branching, commits, pull requests, and release tagging.
 
+\## Version History
 
+
+
+\### Version 1.0.0
+
+\- Created the initial project structure.
+
+\- Added project documentation.
+
+\- Configured Git branching workflow.
 
